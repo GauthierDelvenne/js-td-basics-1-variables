@@ -19,3 +19,15 @@ const y = 10;
 
 // Autres opérateurs
 // 4. Utilisez un opérateur de comparaison (comme >, <, ==, etc.) pour comparer les valeurs de deux variables et affichez le résultat.
+
+
+
+
+const f = 5, g = 10;
+
+console.log(f>g);
+console.log(f<g);
+console.log(f<=g);
+console.log(f===g);
+console.log(f>g && f<20);
+console.log();
