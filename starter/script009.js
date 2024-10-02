@@ -24,4 +24,5 @@ console.log(age);
 console.log(job);
 
 // 5. Affichez une boîte de dialogue demandant "Quel est son nom de famille ?" pour permettre à l'utilisateur d'entrer le nom de famille de John. Stockez ce nom dans une variable lastName, puis affichez "Le nom de famille de John est … (le nom
-const dialogue = prompt('Quel est son nom de famille ?')
+const dialogue = prompt('Quel est son nom de famille ?');
+console.log(dialogue);
